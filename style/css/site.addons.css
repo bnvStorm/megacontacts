@@ -9,13 +9,13 @@
 	display:none;
 }
 .navbar-header{
-	background: url('../images/menu.jpg');
+	background: url('../images/menu.png');
 	background-position-x: 50%;
 	background-repeat: no-repeat;
 	/*background: #9a1f1f;*/
 }
 .navbar .navbar-collapse{
-		background: url('../images/menu.jpg');
+		background: url('../images/menu.png');
 }
 .navbar.fixed .navbar-collapse .navbar-nav{
 	overflow-y: unset;
@@ -27,7 +27,7 @@
 }
 
 .navbar-brand:hover{
-/*	background: url('../images/menu.jpg');
+/*	background: url('../images/menu.png');
 	background-position-x: 95%;*/
 	background:#fff;
 }
@@ -192,8 +192,10 @@
 /*SHOWCASE*/
 /*FOOTER*/
 .footer{
-	background: url('../images/menu.jpg');
+	background: url('../images/menu.png');
 	color: #fff;
+	-webkit-background-size: cover;
+	background-size: cover;
 }
 .footer a{
 	color: #fff;
