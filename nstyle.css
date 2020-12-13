@@ -267,6 +267,12 @@ max-width: 900px;
 .city-table tr td:nth-of-type(2){
     text-align: right;
 }
+.people,.boss,.purpule,span,.gray{
+  font-size: 18px;
+}
+a{
+  font-size: 18px;
+}
 @media(max-width:480px){
     .body-wrapper{
         background-image: url('bgph.jpg');
