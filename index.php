@@ -5,8 +5,11 @@
 <meta name="description" content="Экологичные контейнерные площадки для вашего бизнеса. От проекта до внедрения">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="https://rpo.kz"/>
+<script src="../js/jquery.magnific-popup.js"></script>
+<script src="../js/main.js"></script>
+<link rel="stylesheet" href="../css/magnific-popup.css">
 </head>
-<!-- <link href="style/css/site.addons.css" rel="stylesheet"> -->
+
 <body>
 <div class="body-wrapper">
 <?php include 'includes/navbar.php'; ?>
@@ -14,8 +17,8 @@
   <div id="services" class="section anchor">
     <div class="light-wrapper">
       <div class="container inner">
-        <!-- <h2 class="section-title text-center">Наша продукция</h2> -->
-       <!--  <p class="lead main text-center">Подпись</p> -->
+
+
 
         <div class="row text-center services-1">
           <div class="col-sm-12">

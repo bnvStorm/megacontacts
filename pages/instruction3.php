@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
 <?php include '../includes/head.php'; ?>
-<title>Контейнеры для мусора - Промотход Сервис</title>
+<title>4920</title>
 <meta name="description" content="О компании Промотход Сервис - лидера на рынке контейнерных площадок для бизнеса">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="https://rpo.kz/about"/>
