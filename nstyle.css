@@ -29,6 +29,16 @@ width: 100%;
   padding: 10px;
   color:#fff;
   margin: 10px 0px;
+  text-align: center;
+}
+.center{
+    margin-bottom: 30px;
+}
+.center https://test.4920.kz/{
+  width: 100%;
+max-width: 300px;
+margin: 10px auto;
+padding: 5px;
 }
 .gray{
   text-transform: uppercase;
@@ -39,6 +49,7 @@ width: 100%;
   width: 100%;
   max-width: 300px;
   margin: 10px auto;
+  padding: 5px;
 }
 .navbar-nav {
     display: flex;
@@ -242,6 +253,19 @@ line-height: 14px;
   text-transform: uppercase;
   font-weight: bold;
   background: #56c554;
+}
+.city-table{
+  margin: 0 auto;
+width: 100%;
+max-width: 900px;
+}
+.city-table{
+    width: 100%;
+    margin-top: 10px;
+    font-size: 18px;
+}
+.city-table tr td:nth-of-type(2){
+    text-align: right;
 }
 @media(max-width:480px){
     .body-wrapper{

@@ -320,7 +320,96 @@
    </div>
    </div>
    </div>
+   <div class="center">
+            <div class="item">
+              <h3 class="gray" style="text-align: center;">
+                  ОФИЦИАЛЬНЫЕ ПРЕДСТАВИТЕЛЬСТВА
+              </h3>
+              <table class="city-table">
+                  <tr>
+                      <td>Нур-Султан </td>
+                      <td><a class="phone" href="tel:8 775 081 08 06">8 775 081 08 06</a></td>
+                  </tr>
+                  <tr>
+                      <td>Костанай </td>
+                      <td><a class="phone" href="tel:8 705 450 29 41">8 705 450 29 41</a></td>
+                  </tr>
+                  <tr>
+                      <td>Актобе</td>
+                      <td><a class="phone" href="tel:8 707 041 41 80">8 707 041 41 80</a></td>
+                  </tr>
+                  <tr>
+                      <td>Петропавловск</td>
+                      <td><a href="tel:8 778 555 59 63" class="phone">8 778 555 59 63</a></td>
+                  </tr>
+                  <tr>
+                      <td>Павлодар</td>
+                      <td><a href="tel:8 701 520 61 11" class="phone">8 701 520 61 11</a></td>
+                  </tr>
+                  <tr>
+                      <td>Экибастуз </td>
+                      <td><a href="tel:8 701 921 11 71" class="phone">8 701 921 11 71</a></td>
+                  </tr>
+                  <tr>
+                      <td>Кокшетау </td>
+                      <td><a href="tel:8 771 817 99 27" class="phone">8 771 817 99 27</a></td>
+                  </tr>
+                  <tr>
+                      <td>Алматы </td>
+                      <td><a href="tel:8 777 245 97 34" class="phone">8 777 245 97 34</a></td>
+                  </tr>
+                  <tr>
+                      <td>Тараз </td>
+                      <td><a href="tel:8 777 117 54 82" class="phone">8 777 117 54 82</a></td>
+                  </tr>
+                  <tr>
+                      <td>Талдыкорган </td>
+                      <td><a href="tel:8 705 726 33 99" class="phone">8 705 726 33 99</a></td>
+                  </tr>
+                  <tr>
+                      <td>Семей</td>
+                      <td><a href="tel:8 747 743 16 11" class="phone">8 747 743 16 11</a></td>
+                  </tr>
+                  <tr>
+                      <td>Кызылорда</td>
+                      <td><a class="phone" href="tel:8 778 875 88 88">8 778 875 88 88</a></td>
+                  </tr>
+                  <tr>
+                      <td>Усть-Каменогорск </td>
+                      <td><a class="phone" href="tel:8 771 840 99 91">8 771 840 99 91</a></td>
+                  </tr>
+                  <tr>
+                      <td>Балхаш</td>
+                      <td><a class="phone" href="tel:8 776  296 01 51">8 776  296 01 51</a></td>
+                  </tr>
+                  <tr>
+                      <td>Уральск</td>
+                      <td><a class="phone" href="tel:8 705 450 29 41">8 705 450 29 41</a></td>
+                  </tr>
+                  <tr>
+                      <td>Жезказган</td>
+                      <td><a class="phone" href="tel:8 705 188 34 91">8 705 188 34 91</a></td>
+                  </tr>
+                  <tr>
+                      <td>Шымкент   </td>
+                      <td><a class="phone" href="tel:8 777 245 97 34">8 777 245 97 34</a></td>
+                  </tr>
 
+              </table>
+              <div class="purpule note">
+                  Договоры с заказчиками оформляются только
+                  через центральный офис в Караганде:
+              </div>
+
+              <div class="purpule" style="text-align:center;">
+                  100000, Казахстан, Караганда,
+                  ул. Алиханова, 1, 3 этаж, каб. 312
+              </div>
+          </div>
+
+
+
+      </div>
    <div class="sites_cont row text-center services-1">
        <h3 class="gray">Наши партнеры:</h3>
        <div class="sites_box">
