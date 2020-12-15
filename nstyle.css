@@ -29,6 +29,8 @@ width: 100%;
   padding: 10px;
   color:#fff;
   margin: 10px 0px;
+  font-size: 20px;
+  font-weight: bold;
   text-align: center;
 }
 .center{
@@ -272,6 +274,10 @@ max-width: 900px;
 }
 a{
   font-size: 18px;
+}
+.lastname,.phone{
+    font-weight: bold;
+    color:#000;
 }
 @media(max-width:480px){
     .body-wrapper{
