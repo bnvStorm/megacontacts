@@ -20,7 +20,7 @@
 
 
 
-        <div class="row text-center services-1">
+        <!-- <div class="row text-center services-1">
           <div class="col-sm-12">
                 <div class="col-wrapper">
             <div class="title red-title">
@@ -28,60 +28,123 @@
             </div>
             <span>Единый номер:</span>
             <a class="phone" href="tel:+7 (7212) 42 42 11">+7 (7212) 42 42 11</a>
-            <div class="note">
-              Внимание: при отправке запроса на подготовку коммерческого
-                предложения в теле письма необходимо обязательно указать
-            реквизиты компании и перечень отходов.
-          </div>
             </div>
           </div>
 
-          </div>
+          </div>-->
           <div class="row text-center services-1">
             <div class="col-sm-4">
                   <div class="col-wrapper">
-                    <div class="item">
-                    <div class="purpule boss">Руководитель</div>
-                    <div class="people">
-                      <span>Евгения Александровна</span><span class="lastname">ТУР</span>
-                    </div>
+              <div class="title red-title">
+                  <h3 class="gray">ДЕПАРТАМЕНТ ЗАКУПОК:</h3>
+              </div>
+              <span>Единый номер:</span>
+              <a class="phone" href="tel:+7 (7212) 42 42 11">+7 (7212) 42 42 11</a>
+              <div class="item">
+              <div class="purpule boss">Руководитель</div>
+              <div class="people">
+                <span>Евгения Александровна</span><span class="lastname">ТУР</span>
+              </div>
 
-                    <a href="mailto:hp@qwmo.net">hp@qwmo.net</a>
-                    <a class="phone" href="tel:+77084368156">+7 708 436 81 56</a>
+              <a href="mailto:hp@qwmo.net">hp@qwmo.net</a>
+              <a class="phone" href="tel:+77084368156">+7 708 436 81 56</a>
+            </div>
+            <div class="item">
+            <div class="purpule boss">Менеджер по разработке коммерческих предложений</div>
+            <div class="people">
+              <span>Оксана</span> <span class="lastname">РЕХМАН</span>
+            </div>
+            <a href="mailto:hpa@qwmo.net">hpa@qwmo.net</a>
+            <a class="phone" href="tel:+7 (708) 439 64 41">+7 (708) 439 64 41</a>
+          </div>
+          <div class="item">
+          <div class="purpule boss">
+              Менеджеры по закупкам
+          </div>
+          <div class="people">
+            <span>Карина</span> <sapn class="lastname">МАСТАЕВА</sapn>
+          </div>
+          <a href="mailto:hbb@qwmo.net">hbb@qwmo.net</a>
+          <a class="phone" href="tel:+77084396449">+7 708 439 64 49</a>
+          <div class="people">
+            <span>Татьяна</span> <sapn class="lastname">ГРУЗИНСКАЯ</sapn>
+          </div>
+          <a href="mailto:hbc@qwmo.net">hbc@qwmo.net</a>
+          <a class="phone" href="tel:+7 (7212) 42 42 11">+7 (7212) 42 42 11</a>
+        </div>
+        <div class="note main-note">
+          Внимание: при отправке запроса на подготовку коммерческого
+            предложения в теле письма необходимо обязательно указать
+        реквизиты компании и перечень отходов.
+      </div>
+              </div>
+            </div>
+                        <div class="col-sm-4">
+                          <div class="col-wrapper">
+                      <div class="item press-cont">
+                    <h3 class="gray boss">ПРЕСС-СЛУЖБА, ОТДЕЛ СПЕЦПРОЕКТОВ</h3>
+
+                    <div class="box row">
+                     <div class="item_press col-sm-12 item">
+                        <div class="purpule boss" style="text-transform: uppercase;">
+                           Пресс-секретарь
+                       </div>
+                       <div class="people">
+                             <span>Юрий</span> <span class="lastname">САВЧЕНКО</span>
+                       </div>
+                        <a href="mailto:pr@qwmo.net">pr@qwmo.net</a>
+                       <a class="phone" href="tel:+77084396448">+7 708 439 64 48</a>
+                   </div>
+                </div>
+                </div>
+                <div class="item_press col-sm-12 item">
+                       <div class="purpule boss">Мастер производственной площадки</div>
+                       <div class="people">
+                         <span>Николай </span> <span class="lastname">ЮРЫШЕВ</span>
+                       </div>
+                       <a href="mailto:sm@qwmo.net">sm@qwmo.net</a>
+                       <a class="phone" href="tel:+77021174777">+7 702 117 47 77</a>
                   </div>
+                  <div class="item_press col-sm-12 item" style="text-align: center;">
+                      <div class="purpule boss">Офис-менеджер производственной площадки</div>
+                      <div class="people">
+                        <span>Ирина</span> <span class="lastname">АНДРЕЕВА</span>
+                      </div>
+                      <a href="mailto:omm@qwmo.net">omm@qwmo.net</a>
+                      <a class="phone" href="tel:+77084397430">+7 708 439 74 30</a>
                   </div>
                 </div>
+                </div>
                 <div class="col-sm-4">
-                      <div class="col-wrapper">
-                        <div class="item">
-                        <div class="purpule boss">Менеджер по разработке коммерческих предложений</div>
-                        <div class="people">
-                          <span>Оксана</span> <span class="lastname">РЕХМАН</span>
-                        </div>
-                        <a href="mailto:hpa@qwmo.net">hpa@qwmo.net</a>
-                        <a class="phone" href="tel:+7 (708) 439 64 41">+7 (708) 439 64 41</a>
+                  <div class="col-wrapper">
+                    <div class="item">
+                      <div class="title red-title"><h3 class="gray">ФИНАНСОВЫЙ ДЕПАРТАМЕНТ:</h3></div>
+                      Единый номер:<br>
+                      <a class="phone" href="tel:+77084396529">+7 708 439 65 29</a>
+                      <span class="purpule boss">Руководитель</span>
+                      <div class="people">
+                        <span>Инна Владимировна</span> <span class="lastname">КРИВЧЕНКО</span>
                       </div>
-                    </div>
-                    </div>
-                    <div class="col-sm-4">
-                          <div class="col-wrapper">
-                            <div class="item">
-                            <div class="purpule boss">
-                                Менеджеры по закупкам
-                            </div>
-                            <div class="people">
-                              <span>Карина</span> <sapn class="lastname">МАСТАЕВА</sapn>
-                            </div>
-                            <a href="mailto:hbb@qwmo.net">hbb@qwmo.net</a>
-                            <a class="phone" href="tel:+77084396449">+7 708 439 64 49</a>
-                            <div class="people">
-                              <span>Татьяна</span> <sapn class="lastname">ГРУЗИНСКАЯ</sapn>
-                            </div>
-                            <a href="mailto:hbc@qwmo.net">hbc@qwmo.net</a>
-                            <a class="phone" href="tel:+7 (7212) 42 42 11">+7 (7212) 42 42 11</a>
-                          </div>
-                        </div>
-                        </div>
+                      <a class="mail" href="mailto:fs@qwmo.net">fs@qwmo.net</a>
+                      <div class="purpule boss">Специалисты</div>
+                      <div class="people">
+                        Дана <span class="lastname">САДУОВА</span>
+                      </div>
+                      <a class="mail" href="mailto:fsa@qwmo.net">fsa@qwmo.net</a>
+                      <span class="purpule boss">Бухгалтер по реализации</span>
+                      <div class="people">
+                        <span>Наталья</span> <span class="lastname">КОРЯКОВЦЕВА</span>
+                      </div>
+                       <a class="mail" href="mailto:fsk@qwmo.net">fsk@qwmo.net </a>
+                      <div class="people">
+                        <span>Наталья</span> <span class="lastname">СИДЯКИНА</span>
+                      </div>
+                      <a class="mail" href="mailto:fso@qwmo.net">fso@qwmo.net </a>
+                      <a class="phone" href="tel:+77232996017">+7 (7212) 99 60 17</a>
+                      <a class="phone" href="tel:+77232996114">+7 (7212) 99 61 14</a>
+                  </div>
+                </div>
+                </div>
           </div>
 
         <div class="row text-center services-1">
@@ -100,6 +163,17 @@
                   </div>
                   <a href="mailto:mla@qwmo.net">mla@qwmo.net</a>
                   <a class="phone" href="tel:+7 771 705 18 13">+7 771 705 18 13</a>
+              </div>
+              <div class="item">
+                  <div class="title red-title">
+                      <h3 class="gray boss">Официальный представитель компании в государственных органах</h3>
+                  </div>
+                  <div class="people">
+                    <span>Римма Рахметуллаевна </span><sapn class="lastname">ОСПАНОВА</sapn>
+                  </div>
+                  <a href="mailto:rg@qwmo.net">rg@qwmo.net</a>
+                  <a class="phone" href="tel:+77212996817">+7 (7212) 99 68 17</a>
+                  <a class="phone" href="tel:+77084361561">+7 708 436 15 61</a>
               </div>
             </div>
           </div>
@@ -121,6 +195,23 @@
                    <span>Жазира</span> <span class="lastname">НУРЛАНОВА</span>
                  </div>
                   <a href="mailto:lda@qwmo.net">lda@qwmo.net</a>
+             </div>
+             <div class="item">
+                 <div class="title red-title"><h3 class="gray">ДЕПАРТАМЕНТ ЭКОЛОГИИ:</h3></div>
+
+                 <div class="purpule boss">Руководитель, зам. директора по экологии</div>
+                 <div class="people">
+                   Юрий <span class="lastname">ШЕДРИКС</span>
+                 </div>
+                  <a href="mailto:de@qwmo.net">de@qwmo.net</a>
+                 <div class="purpule boss">Специалист</div>
+               <div class="people">
+                 <span>Зинаида Николаевна </span><span class="lastname">ТАРАСОВА</span>
+               </div>
+                 <a href="mailto:eco@qwmo.net">eco@qwmo.net</a>
+                 <a class="phone" href="tel:+77212996817">+7 (7212) 99 68 17</a>
+                 <a class="phone" href="tel:+77084361561">+7 708 436 15 61</a>
+
              </div>
             </div>
           </div>
@@ -162,160 +253,20 @@
           </div>
         </div>
         <div class="row text-center services-1">
-          <div class="col-sm-4">
-            <div class="col-wrapper">
-              <div class="item">
-                <div class="title red-title"><h3 class="gray">ФИНАНСОВЫЙ ДЕПАРТАМЕНТ:</h3></div>
-                Единый номер:<br>
-                <a class="phone" href="tel:+77084396529">+7 708 439 65 29</a>
-                <span class="purpule boss">Руководитель</span>
-                <div class="people">
-                  <span>Инна Владимировна</span> <span class="lastname">КРИВЧЕНКО</span>
-                </div>
-                <a class="mail" href="mailto:fs@qwmo.net">fs@qwmo.net</a>
-                <div class="purpule boss">Специалисты</div>
-                <div class="people">
-                  Дана <span class="lastname">САДУОВА</span>
-                </div>
-                <a class="mail" href="mailto:fsa@qwmo.net">fsa@qwmo.net</a>
-                <span class="purpule boss">Бухгалтер по реализации</span>
-                <div class="people">
-                  <span>Наталья</span> <span class="lastname">КОРЯКОВЦЕВА</span>
-                </div>
-                 <a class="mail" href="mailto:fsk@qwmo.net">fsk@qwmo.net </a>
-                <div class="people">
-                  <span>Наталья</span> <span class="lastname">СИДЯКИНА</span>
-                </div>
-                <a class="mail" href="mailto:fso@qwmo.net">fso@qwmo.net </a>
-                <a class="phone" href="tel:+77232996017">+7 (7212) 99 60 17</a>
-                <a class="phone" href="tel:+77232996114">+7 (7212) 99 61 14</a>
-            </div>
-          </div>
-          </div>
-          <div class="col-sm-4">
-            <div class="col-wrapper">
-              <div class="item">
-                  <div class="title red-title"><h3 class="gray">ДЕПАРТАМЕНТ ЭКОЛОГИИ:</h3></div>
 
-                  <div class="purpule boss">Руководитель, зам. директора по экологии</div>
-                  <div class="people">
-                    Юрий <span class="lastname">ШЕДРИКС</span>
-                  </div>
-                   <a href="mailto:de@qwmo.net">de@qwmo.net</a>
-                  <div class="purpule boss">Специалист</div>
-                <div class="people">
-                  <span>Зинаида Николаевна </span><span class="lastname">ТАРАСОВА</span>
-                </div>
-                  <a href="mailto:eco@qwmo.net">eco@qwmo.net</a>
-                  <a class="phone" href="tel:+77212996817">+7 (7212) 99 68 17</a>
-                  <a class="phone" href="tel:+77084361561">+7 708 436 15 61</a>
-
-              </div>
-            </div>
-          </div>
-          <div class="col-sm-4">
-            <div class="col-wrapper">
-              <div class="item">
-                  <div class="title red-title">
-                      <h3 class="gray boss">Официальный представитель компании в государственных органах</h3>
-                  </div><br>
-                  <div class="people">
-                    <span>Римма Рахметуллаевна </span><sapn class="lastname">ОСПАНОВА</sapn>
-                  </div>
-                  <a href="mailto:rg@qwmo.net">rg@qwmo.net</a>
-                  <a class="phone" href="tel:+77212996817">+7 (7212) 99 68 17</a><br>
-                  <a class="phone" href="tel:+77084361561">+7 708 436 15 61</a><br>
-              </div>
-            </div>
-          </div>
-
-        </div>
-        <!-- /.services -->
-        <div class="row text-center services-1">
           <div class="col-sm-12">
             <div class="col-wrapper">
-        <div class="item press-cont">
-      <h3 class="gray boss">ПРЕСС-СЛУЖБА, ОТДЕЛ СПЕЦПРОЕКТОВ</h3>
 
-      <div class="box row">
-       <div class="item_press col-sm-3 item">
-          <div class="purpule boss" style="text-transform: uppercase;">
-             Пресс-секретарь
-         </div>
-         <!-- Юрий <span class="lastname">САВЧЕНКО</span><br> --> <a href="mailto:pr@qwmo.net">pr@qwmo.net</a>
-         <a class="phone" href="tel:+77084396448">+7 708 439 64 48</a>
-         <!--   <a class="phone" href="tel:+7 (7212) 99 68 16">+7 (7212) 99 68 16</a><br> -->
+            </div>
+          </div>
+        </div>
+        <!-- /.services -->
 
-     </div>
-     <div class="item_press col-sm-3 item">
-      <div class="purpule boss">Ведущий корпоративный дизайнер</div>
-      <div class="people">
-        <span>Герасим</span> <span class="lastname">ИВАНОВ</span>
-      </div>
-      <a href="mailto:ig@qwmo.net">ig@qwmo.net</a>
-      <a class="phone" href="tel:+77084396448">+7 708 439 64 48</a>
-
-      <!--   <a class="phone" href="tel:+ 7 (7212) 99 68 16">+ 7 (7212) 99 68 16</a><br> -->
-  </div>
-
-  <div class="item_press col-sm-3 item">
-   <div class="purpule boss">SEO-специалист</div>
-   <div class="people">
-     <span>Герман</span> <span class="lastname">БРАГИН</span>
-   </div>
-   <a href="mailto:infabls@gmail.com">infabls@gmail.com</a>
-   <a class="phone" href="tel:+77714542260">+7 (771) 454 22 60</a>
-  </div>
-  <!--      <div class="item_press">
-    <div class="purpule">SMM-специалист</div>
-    Анна <span class="lastname">ЭППОРТ</span><br>
-    <a class="phone" href="tel:+77071014596">+7 (707) 101 4596</a><br>
-  </div> -->
-  <div class="item_press col-sm-3 item">
-  <div class="purpule boss">Web-программист</div>
-  <div class="people">
-    <span>Никита</span> <span class="lastname">БИРЮКОВ</span>
-  </div>
-  <a href="mailto:bnvstorm@gmail.com">bnvstorm@gmail.com</a>
-  <a class="phone" href="tel:+77473702660">+7 (747) 370 26 60</a>
-  </div>
-
-  </div>
-  </div>
-  </div>
-  </div>
-
-  </div>
   <div class="row text-center services-1">
     <div class="col-sm-12">
       <div class="col-wrapper">
   <div class="item press-cont">
 <!-- <h3 class="gray boss">ПРЕСС-СЛУЖБА, ОТДЕЛ СПЕЦПРОЕКТОВ</h3> -->
-
-<div class="box row">
- <div class="item_press col-sm-6 item">
-        <div class="purpule boss">Мастер производственной площадки</div>
-        <div class="people">
-          <span>Николай </span> <span class="lastname">ЮРЫШЕВ</span>
-        </div>
-        <a href="mailto:sm@qwmo.net">sm@qwmo.net</a>
-        <a class="phone" href="tel:+77021174777">+7 702 117 47 77</a>
-   </div>
-   <div class="item_press col-sm-6 item" style="text-align: center;">
-       <div class="purpule boss">Офис-менеджер производственной площадки</div>
-       <div class="people">
-         <span>Ирина</span> <span class="lastname">АНДРЕЕВА</span>
-       </div>
-       <a href="mailto:omm@qwmo.net">omm@qwmo.net</a>
-       <a class="phone" href="tel:+77084397430">+7 708 439 74 30</a>
-   </div>
-   <!-- <div class="item_press">
-       <div class="purpule">Заведующая складом</div>
-       Елена <span class="lastname">КЕРЕН</span><br>
-       <a href="mailto:bnvstorm@gmail.com">bm@qwmo.net</a> <br>
-       <a class="phone" href="tel:+77084368226">+7 708 436 82 26</a><br>
-   </div> -->
-   </div>
    </div>
    </div>
    </div>

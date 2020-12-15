@@ -35,6 +35,7 @@ width: 100%;
 }
 .center{
     margin-bottom: 30px;
+    margin-top: 20px;
 }
 .center h3{
   width: 100%;
@@ -273,7 +274,8 @@ max-width: 900px;
   font-size: 18px;
 }
 a{
-  font-size: 18px;
+  font-size: 20px;
+  font-weight: bold !important;
 }
 .lastname,.phone{
     font-weight: bold;
