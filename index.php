@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="ru">
 <?php include 'includes/head.php'; ?>
@@ -6,7 +9,15 @@
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="https://rpo.kz"/>
 <script src="../js/jquery.magnific-popup.js"></script>
-<script src="../js/main.js"></script>
+<?php
+// проверка на установленную сессию
+if (!isset($_SESSION['first'])) {
+  // если впервые на сайте - выводим форму
+echo '<script src="../js/main.js"></script>';
+}
+$_SESSION['first'] = false;
+
+?>
 <link rel="stylesheet" href="../css/magnific-popup.css">
 </head>
 
@@ -17,21 +28,6 @@
   <div id="services" class="section anchor">
     <div class="light-wrapper">
       <div class="container inner">
-
-
-
-        <!-- <div class="row text-center services-1">
-          <div class="col-sm-12">
-                <div class="col-wrapper">
-            <div class="title red-title">
-                <h3 class="gray">ДЕПАРТАМЕНТ ЗАКУПОК:</h3>
-            </div>
-            <span>Единый номер:</span>
-            <a class="phone" href="tel:+7 (7212) 42 42 11">+7 (7212) 42 42 11</a>
-            </div>
-          </div>
-
-          </div>-->
           <div class="row text-center services-1">
             <div class="col-sm-4">
                   <div class="col-wrapper">
@@ -57,6 +53,11 @@
             <a href="mailto:hpa@qwmo.net">hpa@qwmo.net</a>
             <a class="phone" href="tel:+7 (708) 439 64 41">+7 (708) 439 64 41</a>
           </div>
+          <div class="note main-note">
+            Внимание: при отправке запроса на подготовку коммерческого
+              предложения в теле письма необходимо обязательно указать
+          реквизиты компании и перечень отходов.
+        </div>
           <div class="item">
           <div class="purpule boss">
               Менеджеры по закупкам
@@ -72,11 +73,7 @@
           <a href="mailto:hbc@qwmo.net">hbc@qwmo.net</a>
           <a class="phone" href="tel:+7 (7212) 42 42 11">+7 (7212) 42 42 11</a>
         </div>
-        <div class="note main-note">
-          Внимание: при отправке запроса на подготовку коммерческого
-            предложения в теле письма необходимо обязательно указать
-        реквизиты компании и перечень отходов.
-      </div>
+
               </div>
             </div>
                         <div class="col-sm-4">
@@ -98,6 +95,7 @@
                 </div>
                 </div>
                 <div class="item_press col-sm-12 item">
+                      <h3 class="gray boss">Производственная площадка</h3>
                        <div class="purpule boss">Мастер производственной площадки</div>
                        <div class="people">
                          <span>Николай </span> <span class="lastname">ЮРЫШЕВ</span>
@@ -177,7 +175,7 @@
               </div>
             </div>
           </div>
-          <div class="col-sm-4">
+          <div class="col-sm-4" style="margin-top: -150px;">
             <div class="col-wrapper">
               <div class="item">
                   <div class="title red-title"><h3 class="gray">ЮРИДИЧЕСКИЙ ДЕПАРТАМЕНТ: </h3></div>
@@ -215,7 +213,7 @@
              </div>
             </div>
           </div>
-          <div class="col-sm-4">
+          <div class="col-sm-4" style="margin-top: -170px;">
             <div class="col-wrapper">
               <div class="item">
                <div class="title red-title"><h3 class="gray">ПРИЕМНАЯ:</h3> </div>
@@ -245,7 +243,7 @@
                     <div class="people">
                       Светлана Ивановна <span class="lastname">РОМАНЕНКО</span>
                     </div>
-                    <a href="mailto:hr@qwmo.net">hr@qwmo.net</a><br>
+                    <a href="mailto:hr@qwmo.net">hr@qwmo.net</a>
                     <a class="phone" href="tel:+7 708 439 79 88">+7 708 439 79 88</a>
                     <a class="phone" href="tel:+77212996530">+7 7212 99 65 30</a>
                 </div>

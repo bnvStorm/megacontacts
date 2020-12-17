@@ -12,3 +12,9 @@ RewriteRule ^(.*)$ $1.php
 #errors pages
 ErrorDocument 404 /404.php
 ErrorDocument 500 /404.php
+
+#redirects from deleted pages
+Redirect 301 /instruction.html /pages/1
+Redirect 301 /instruction2.html /pages/2
+Redirect 301 /instruction3.html /pages/3
+Redirect 301 /instruction4.html /pages/4

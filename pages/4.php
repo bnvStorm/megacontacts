@@ -31,7 +31,7 @@ span{
       <div class="container inner">
         <div class="idocs_btn">
           <div class="idocs_btn-cont">
-            <a target="_blank" download href="instruction.pdf" style="text-align:center;justify-content:center;">Как заключить договор </a>
+            <a target="_blank" download href="../instruction.docx" style="text-align:center;justify-content:center;"><img src="../download.png" alt="">Как заключить договор </a>
           </div>
         </div>
 	<div class="page" style="text-align:left;">
@@ -39,10 +39,10 @@ span{
   <a class="rus" href="#">Рус</a>
   <a class="kaz" href="#">Каз</a>
 </div>
-<span  style="text-align:center;margin:0 auto;">
+<h1  style="text-align:center;">
   Заключить договор с нашей компании очень просто.<br>
   Напишите нам письмо, и мы возьмем решение проблемы полностью на себя!
-</span>
+</h1>
 
 <p>
   <span>Шаг первый.</span>

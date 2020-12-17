@@ -18,6 +18,19 @@
 .navbar .navbar-collapse{
   max-width: 1170px;
 width: 100%;
+max-height: 70px !important;
+}
+.navbar-nav{
+  max-height: 70px;
+}
+.white-popup{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+.navbar.fixed .navbar-nav > li > a{
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
 }
 .boss{
   font-weight: bold;
@@ -25,9 +38,9 @@ width: 100%;
   margin-bottom: 10px;
 }
 .note{
-  background: #EAA03F;
+  background: #F7D400;
   padding: 10px;
-  color:#fff;
+  color:#6D1740;
   margin: 10px 0px;
   font-size: 20px;
   font-weight: bold;
@@ -47,6 +60,7 @@ padding: 5px;
   text-transform: uppercase;
     font-weight: bold;
     background: #b7a9c1;
+    margin-top: 20px !important;
 }
 .services-1 h3 {
   width: 100%;
@@ -163,9 +177,12 @@ padding: 5px;
     max-width: 960px;
     margin: 0 auto;
 }
+.lang{
+  margin-bottom: 20px;
+}
 .page h1{
     color:red;
-    font-size: 25px;
+    font-size: 21px;
     text-align: center;
 }
 .page img{
@@ -179,7 +196,7 @@ padding: 5px;
 }
 .body-wrapper{
     margin: 0;
-    background-image: url(mbg.jpg);
+    background-image: url(style/images/bg.png);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -213,6 +230,10 @@ padding: 5px;
     text-align: center;
     color: #fff;
 line-height: 14px;
+}
+.idocs_btn-cont img{
+  width: 20px;
+  margin-right: 10px;
 }
 .idocs_btn a{
     display: flex;
@@ -280,6 +301,12 @@ a{
 .lastname,.phone{
     font-weight: bold;
     color:#000;
+}
+.navbar-collapse.collapse{
+  display: -webkit-flex;
+  display: -ms-flex;
+display: flex !important;
+    justify-content: center;
 }
 @media(max-width:480px){
     .body-wrapper{

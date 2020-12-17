@@ -42,4 +42,5 @@
 <script src="https://rpo.kz/style/js/retina.js"></script>
 <script src="https://rpo.kz/style/js/google-code-prettify/prettify.js"></script>
 <script src="https://rpo.kz/style/js/scripts.js"></script>
+<link rel="stylesheet" href="../nstyle.css">
 <!-- Yandex.Metrika counter -->

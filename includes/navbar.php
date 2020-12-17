@@ -7,7 +7,7 @@
             <li><a href="/">Главная</a></li>
             <!-- <li><a href="#services">Services</a></li>
             <li><a href="#portfolio">Portfolio</a></li> -->
-            <li><a href="../pages/4">Инструкция на двух языках</a></li>
+            <li><a href="../pages/4">Как заключить договор с компанией</a></li>
             <li><a href="../pages/2">Об электронном документе и ЭЦП</a></li>
             <li><a href="../pages/3">О выставлении АВР в электронном виде</a></li>
             <li><a href="../pages/1">Инструкция для контрагентов</a></li>
