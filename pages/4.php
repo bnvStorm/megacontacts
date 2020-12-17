@@ -39,7 +39,7 @@ span{
   <a class="rus" href="#">Рус</a>
   <a class="kaz" href="#">Каз</a>
 </div>
-<h1  style="text-align:center;">
+<h1  style="text-align:center;" class="redtxt">
   Заключить договор с нашей компании очень просто.<br>
   Напишите нам письмо, и мы возьмем решение проблемы полностью на себя!
 </h1>

@@ -240,6 +240,8 @@ line-height: 14px;
     background: rgb(0 0 0 / 19%);
     padding: 10px;
     max-height: 70px;
+    -ms-align-items: center;
+    align-items: center;
 }
 .idocs_btn a:hover{
     /*    background: #d64637;*/
@@ -250,7 +252,7 @@ line-height: 14px;
     color:#fff;
 }
 .idocs_btn a {
-    font-size: 14px;
+    font-size: 13px;
     line-height: 14px;
     margin:0 auto;
     color:#fff;

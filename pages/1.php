@@ -26,7 +26,7 @@
       <div class="container inner">
 	<div class="idocs_btn">
 		<div class="idocs_btn-cont">
-			<a target="_blank" download href="instruction.pdf">Инструкция для контрагентов по переводу документооборота в электронно-цифровой формат</a>
+			<a target="_blank" download href="instruction.pdf"><img src="../download.png" alt="">Инструкция для контрагентов по переводу документооборота в электронно-цифровой формат</a>
 		</div>
 	</div>
 	<div class="page">
