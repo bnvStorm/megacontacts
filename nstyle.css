@@ -1,3 +1,11 @@
+a{
+  font-size: 20px;
+  color:#000;
+  font-weight: bold !important;
+}
+body{
+      font-size: 16px;
+}
 .item{
   display: -webkit-flex;
   display: -ms-flex;
@@ -31,6 +39,10 @@ max-height: 70px !important;
 .navbar.fixed .navbar-nav > li > a{
   padding-top: 10px !important;
   padding-bottom: 10px !important;
+  color:#fff !important;
+}
+.navbar-nav > li > a:hover{
+  color:#fff !important;
 }
 .boss{
   font-weight: bold;
@@ -196,7 +208,7 @@ padding: 5px;
 }
 .body-wrapper{
     margin: 0;
-    background-image: url(style/images/bg.png);
+    background-image: url('mbg.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -283,23 +295,26 @@ line-height: 14px;
 .city-table{
   margin: 0 auto;
 width: 100%;
-max-width: 900px;
+max-width: 350px;
 }
 .city-table{
     width: 100%;
     margin-top: 10px;
     font-size: 18px;
 }
+.city-table tr{
+  border-bottom:1px doted #000;
+}
+.city-table tr td:nth-of-type(1){
+  text-align: left;
+}
 .city-table tr td:nth-of-type(2){
-    text-align: right;
+    text-align: right !important;
 }
 .people,.boss,.purpule,span,.gray{
   font-size: 18px;
 }
-a{
-  font-size: 20px;
-  font-weight: bold !important;
-}
+
 .lastname,.phone{
     font-weight: bold;
     color:#000;
@@ -310,9 +325,20 @@ a{
 display: flex !important;
     justify-content: center;
 }
+.notaplus{
+  text-align: center;
+  background: #F7D400;
+  color:#6D1740;
+  font-weight: bold;
+  font-size: 30px;
+  padding: 10px;
+}
+.notaplus a{
+  font-size: 30px;
+}
 @media(max-width:480px){
     .body-wrapper{
-        background-image: url('bgph.jpg');
+        background-image: url('mbg.jpg');
         background-size: 100%;
     }
   }

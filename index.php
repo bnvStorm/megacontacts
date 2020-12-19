@@ -25,12 +25,19 @@ $_SESSION['first'] = false;
 <div class="body-wrapper">
 <?php include 'includes/navbar.php'; ?>
   <script src="https://rpo.kz/style/js/lazy.js"></script>
+
   <div id="services" class="section anchor">
+
     <div class="light-wrapper">
       <div class="container inner">
+        <div class="notaplus">
+          Корпоративный e-mail компании <a href="mailto:in@qwmo.net">in@qwmo.net</a>
+
+        </div>
           <div class="row text-center services-1">
             <div class="col-sm-4">
                   <div class="col-wrapper">
+
               <div class="title red-title">
                   <h3 class="gray">ДЕПАРТАМЕНТ ЗАКУПОК:</h3>
               </div>
@@ -53,11 +60,11 @@ $_SESSION['first'] = false;
             <a href="mailto:hpa@qwmo.net">hpa@qwmo.net</a>
             <a class="phone" href="tel:+7 (708) 439 64 41">+7 (708) 439 64 41</a>
           </div>
-          <div class="note main-note">
+          <!-- <div class="note main-note">
             Внимание: при отправке запроса на подготовку коммерческого
               предложения в теле письма необходимо обязательно указать
           реквизиты компании и перечень отходов.
-        </div>
+        </div> -->
           <div class="item">
           <div class="purpule boss">
               Менеджеры по закупкам
@@ -78,31 +85,43 @@ $_SESSION['first'] = false;
             </div>
                         <div class="col-sm-4">
                           <div class="col-wrapper">
-                      <div class="item press-cont">
-                    <h3 class="gray boss">ПРЕСС-СЛУЖБА, ОТДЕЛ СПЕЦПРОЕКТОВ</h3>
+                            <div class="item">
+                             <div class="title red-title"><h3 class="gray">ПРИЕМНАЯ:</h3> </div>
+                             <div class="purpule boss">
+                                 Офис-менеджер
+                             </div>
+                             <div class="people">
+                               Залина
+                             </div>
+                               <a href="mailto:om@qwmo.net">om@qwmo.net</a>
+                             <table>
+                                 <tr>
+                                     <td>
+                                         <a class="phone"  href="tel:+7 (7212) 41 00 29">+7 (7212) 41 00 29</a>
+                                     </td>
+                                 </tr>
+                                 <tr>
+                                     <td>
+                                      <a class="phone"  href="tel:+77084395300">+7 708 439 53 00</a>
+                                  </td>
+                              </tr>
+                          </tr>
+                          </table>
+                          </div>
+                          <div class="item">
+                              <div class="title red-title"><h3 class="gray">ДЕПАРТАМЕНТ ИСПОЛНЕНИЯ ДОГОВОРОВ:</h3> </div>
+                            <div class="people">
+                                <span>Айнура</span> <span class="lastname">ДУЙСЕНБЕКОВА</span>
+                            </div> <a href="mailto:mlb@qwmo.net">mlb@qwmo.net </a>
+                              <a class="phone" href="tel:+7 708 436 80 55">+7 708 436 80 55</a>
+                              <a class="phone" href="tel:+77212368055">+7 (7212) 36 80 55</a>
+                              <div class="people">
+                                <span>Анастасия</span> <span class="lastname">ГРОМЫКО</span>
+                              </div>
+                              <a href="mailto:mla@qwmo.net">mla@qwmo.net</a>
+                              <a class="phone" href="tel:+7 771 705 18 13">+7 771 705 18 13</a>
+                          </div>
 
-                    <div class="box row">
-                     <div class="item_press col-sm-12 item">
-                        <div class="purpule boss" style="text-transform: uppercase;">
-                           Пресс-секретарь
-                       </div>
-                       <div class="people">
-                             <span>Юрий</span> <span class="lastname">САВЧЕНКО</span>
-                       </div>
-                        <a href="mailto:pr@qwmo.net">pr@qwmo.net</a>
-                       <a class="phone" href="tel:+77084396448">+7 708 439 64 48</a>
-                   </div>
-                </div>
-                </div>
-                <div class="item_press col-sm-12 item">
-                      <h3 class="gray boss">Производственная площадка</h3>
-                       <div class="purpule boss">Мастер производственной площадки</div>
-                       <div class="people">
-                         <span>Николай </span> <span class="lastname">ЮРЫШЕВ</span>
-                       </div>
-                       <a href="mailto:sm@qwmo.net">sm@qwmo.net</a>
-                       <a class="phone" href="tel:+77021174777">+7 702 117 47 77</a>
-                  </div>
                   <div class="item_press col-sm-12 item" style="text-align: center;">
                       <div class="purpule boss">Офис-менеджер производственной площадки</div>
                       <div class="people">
@@ -149,19 +168,17 @@ $_SESSION['first'] = false;
 
           <div class="col-sm-4">
             <div class="col-wrapper">
-              <div class="item">
-                  <div class="title red-title"><h3 class="gray">ДЕПАРТАМЕНТ ИСПОЛНЕНИЯ ДОГОВОРОВ:</h3> </div>
-                <div class="people">
-                    <span>Айнура</span> <span class="lastname">ДУЙСЕНБЕКОВА</span>
-                </div> <a href="mailto:mlb@qwmo.net">mlb@qwmo.net </a>
-                  <a class="phone" href="tel:+7 708 436 80 55">+7 708 436 80 55</a>
-                  <a class="phone" href="tel:+77212368055">+7 (7212) 36 80 55</a>
-                  <div class="people">
-                    <span>Анастасия</span> <span class="lastname">ГРОМЫКО</span>
-                  </div>
-                  <a href="mailto:mla@qwmo.net">mla@qwmo.net</a>
-                  <a class="phone" href="tel:+7 771 705 18 13">+7 771 705 18 13</a>
-              </div>
+              <div class="item_press item">
+                    <h3 class="gray boss">Производственная площадка</h3>
+                     <div class="purpule boss">Мастер производственной площадки</div>
+
+                     <div class="people">
+                       <span>Николай </span> <span class="lastname">ЮРЫШЕВ</span>
+                     </div>
+                     <a href="mailto:sm@qwmo.net">sm@qwmo.net</a>
+                     <a class="phone" href="tel:+77021174777">+7 702 117 47 77</a>
+                     Сайт площадки: <a class="phone" target="_blank" href="http://me.qwmo.net/">me.qwmo.net</a>
+                </div>
               <div class="item">
                   <div class="title red-title">
                       <h3 class="gray boss">Официальный представитель компании в государственных органах</h3>
@@ -175,7 +192,7 @@ $_SESSION['first'] = false;
               </div>
             </div>
           </div>
-          <div class="col-sm-4" style="margin-top: -150px;">
+          <div class="col-sm-4">
             <div class="col-wrapper">
               <div class="item">
                   <div class="title red-title"><h3 class="gray">ЮРИДИЧЕСКИЙ ДЕПАРТАМЕНТ: </h3></div>
@@ -213,31 +230,25 @@ $_SESSION['first'] = false;
              </div>
             </div>
           </div>
-          <div class="col-sm-4" style="margin-top: -170px;">
+          <div class="col-sm-4" style="margin-top: -80px;">
             <div class="col-wrapper">
-              <div class="item">
-               <div class="title red-title"><h3 class="gray">ПРИЕМНАЯ:</h3> </div>
-               <div class="purpule boss">
-                   Офис-менеджер
+              <div class="item press-cont">
+            <h3 class="gray boss">ПРЕСС-СЛУЖБА, ОТДЕЛ СПЕЦПРОЕКТОВ</h3>
+
+            <div class="box row">
+             <div class="item_press col-sm-12 item">
+                <div class="purpule boss" style="text-transform: uppercase;">
+                   Пресс-секретарь
                </div>
                <div class="people">
-                 Залина
+                     <span>Юрий</span> <span class="lastname">САВЧЕНКО</span>
                </div>
-                 <a href="mailto:om@qwmo.net">om@qwmo.net</a>
-               <table>
-                   <tr>
-                       <td>
-                           <a class="phone"  href="tel:+7 (7212) 41 00 29">+7 (7212) 41 00 29</a>
-                       </td>
-                   </tr>
-                   <tr>
-                       <td>
-                        <a class="phone"  href="tel:+77084395300">+7 708 439 53 00</a>
-                    </td>
-                </tr>
-            </tr>
-            </table>
-            </div>
+                <a href="mailto:pr@qwmo.net">pr@qwmo.net</a>
+               <a class="phone" href="tel:+77084396448">+7 708 439 64 48</a>
+           </div>
+        </div>
+        </div>
+
                 <div class="item">
                     <div class="title red-title"><h3 class="gray">ДЕПАРТАМЕНТ HR:</h3> </div>
                     <div class="people">
@@ -248,6 +259,96 @@ $_SESSION['first'] = false;
                     <a class="phone" href="tel:+77212996530">+7 7212 99 65 30</a>
                 </div>
           </div>
+          <div class="center">
+                   <div class="item">
+                     <h3 class="gray" style="text-align: center;">
+                         ОФИЦИАЛЬНЫЕ ПРЕДСТАВИТЕЛЬСТВА
+                     </h3>
+                     <table class="city-table">
+                         <tr>
+                             <td>Нур-Султан </td>
+                             <td><a class="phone" href="tel:8 775 081 08 06">8 775 081 08 06</a></td>
+                         </tr>
+                         <tr>
+                             <td>Костанай </td>
+                             <td><a class="phone" href="tel:8 705 450 29 41">8 705 450 29 41</a></td>
+                         </tr>
+                         <tr>
+                             <td>Актобе</td>
+                             <td><a class="phone" href="tel:8 707 041 41 80">8 707 041 41 80</a></td>
+                         </tr>
+                         <tr>
+                             <td>Петропавловск</td>
+                             <td><a href="tel:8 778 555 59 63" class="phone">8 778 555 59 63</a></td>
+                         </tr>
+                         <tr>
+                             <td>Павлодар</td>
+                             <td><a href="tel:8 701 520 61 11" class="phone">8 701 520 61 11</a></td>
+                         </tr>
+                         <tr>
+                             <td>Экибастуз </td>
+                             <td><a href="tel:8 701 921 11 71" class="phone">8 701 921 11 71</a></td>
+                         </tr>
+                         <tr>
+                             <td>Кокшетау </td>
+                             <td><a href="tel:8 771 817 99 27" class="phone">8 771 817 99 27</a></td>
+                         </tr>
+                         <tr>
+                             <td>Алматы </td>
+                             <td><a href="tel:8 777 245 97 34" class="phone">8 777 245 97 34</a></td>
+                         </tr>
+                         <tr>
+                             <td>Тараз </td>
+                             <td><a href="tel:8 777 117 54 82" class="phone">8 777 117 54 82</a></td>
+                         </tr>
+                         <tr>
+                             <td>Талдыкорган </td>
+                             <td><a href="tel:8 705 726 33 99" class="phone">8 705 726 33 99</a></td>
+                         </tr>
+                         <tr>
+                             <td>Семей</td>
+                             <td><a href="tel:8 747 743 16 11" class="phone">8 747 743 16 11</a></td>
+                         </tr>
+                         <tr>
+                             <td>Кызылорда</td>
+                             <td><a class="phone" href="tel:8 778 875 88 88">8 778 875 88 88</a></td>
+                         </tr>
+                         <tr>
+                             <td>Усть-Каменогорск </td>
+                             <td><a class="phone" href="tel:8 771 840 99 91">8 771 840 99 91</a></td>
+                         </tr>
+                         <tr>
+                             <td>Балхаш</td>
+                             <td><a class="phone" href="tel:8 776  296 01 51">8 776  296 01 51</a></td>
+                         </tr>
+                         <tr>
+                             <td>Уральск</td>
+                             <td><a class="phone" href="tel:8 705 450 29 41">8 705 450 29 41</a></td>
+                         </tr>
+                         <tr>
+                             <td>Жезказган</td>
+                             <td><a class="phone" href="tel:8 705 188 34 91">8 705 188 34 91</a></td>
+                         </tr>
+                         <tr>
+                             <td>Шымкент   </td>
+                             <td><a class="phone" href="tel:8 777 245 97 34">8 777 245 97 34</a></td>
+                         </tr>
+
+                     </table>
+                     <div class="purpule note">
+                         Договоры с заказчиками оформляются только
+                         через центральный офис в Караганде:
+                     </div>
+
+                     <div class="purpule" style="text-align:center;">
+                         100000, Казахстан, Караганда,
+                         ул. Алиханова, 1, 3 этаж, каб. 312
+                     </div>
+                 </div>
+
+
+
+             </div>
           </div>
         </div>
         <div class="row text-center services-1">
@@ -269,96 +370,7 @@ $_SESSION['first'] = false;
    </div>
    </div>
    </div>
-   <div class="center">
-            <div class="item">
-              <h3 class="gray" style="text-align: center;">
-                  ОФИЦИАЛЬНЫЕ ПРЕДСТАВИТЕЛЬСТВА
-              </h3>
-              <table class="city-table">
-                  <tr>
-                      <td>Нур-Султан </td>
-                      <td><a class="phone" href="tel:8 775 081 08 06">8 775 081 08 06</a></td>
-                  </tr>
-                  <tr>
-                      <td>Костанай </td>
-                      <td><a class="phone" href="tel:8 705 450 29 41">8 705 450 29 41</a></td>
-                  </tr>
-                  <tr>
-                      <td>Актобе</td>
-                      <td><a class="phone" href="tel:8 707 041 41 80">8 707 041 41 80</a></td>
-                  </tr>
-                  <tr>
-                      <td>Петропавловск</td>
-                      <td><a href="tel:8 778 555 59 63" class="phone">8 778 555 59 63</a></td>
-                  </tr>
-                  <tr>
-                      <td>Павлодар</td>
-                      <td><a href="tel:8 701 520 61 11" class="phone">8 701 520 61 11</a></td>
-                  </tr>
-                  <tr>
-                      <td>Экибастуз </td>
-                      <td><a href="tel:8 701 921 11 71" class="phone">8 701 921 11 71</a></td>
-                  </tr>
-                  <tr>
-                      <td>Кокшетау </td>
-                      <td><a href="tel:8 771 817 99 27" class="phone">8 771 817 99 27</a></td>
-                  </tr>
-                  <tr>
-                      <td>Алматы </td>
-                      <td><a href="tel:8 777 245 97 34" class="phone">8 777 245 97 34</a></td>
-                  </tr>
-                  <tr>
-                      <td>Тараз </td>
-                      <td><a href="tel:8 777 117 54 82" class="phone">8 777 117 54 82</a></td>
-                  </tr>
-                  <tr>
-                      <td>Талдыкорган </td>
-                      <td><a href="tel:8 705 726 33 99" class="phone">8 705 726 33 99</a></td>
-                  </tr>
-                  <tr>
-                      <td>Семей</td>
-                      <td><a href="tel:8 747 743 16 11" class="phone">8 747 743 16 11</a></td>
-                  </tr>
-                  <tr>
-                      <td>Кызылорда</td>
-                      <td><a class="phone" href="tel:8 778 875 88 88">8 778 875 88 88</a></td>
-                  </tr>
-                  <tr>
-                      <td>Усть-Каменогорск </td>
-                      <td><a class="phone" href="tel:8 771 840 99 91">8 771 840 99 91</a></td>
-                  </tr>
-                  <tr>
-                      <td>Балхаш</td>
-                      <td><a class="phone" href="tel:8 776  296 01 51">8 776  296 01 51</a></td>
-                  </tr>
-                  <tr>
-                      <td>Уральск</td>
-                      <td><a class="phone" href="tel:8 705 450 29 41">8 705 450 29 41</a></td>
-                  </tr>
-                  <tr>
-                      <td>Жезказган</td>
-                      <td><a class="phone" href="tel:8 705 188 34 91">8 705 188 34 91</a></td>
-                  </tr>
-                  <tr>
-                      <td>Шымкент   </td>
-                      <td><a class="phone" href="tel:8 777 245 97 34">8 777 245 97 34</a></td>
-                  </tr>
 
-              </table>
-              <div class="purpule note">
-                  Договоры с заказчиками оформляются только
-                  через центральный офис в Караганде:
-              </div>
-
-              <div class="purpule" style="text-align:center;">
-                  100000, Казахстан, Караганда,
-                  ул. Алиханова, 1, 3 этаж, каб. 312
-              </div>
-          </div>
-
-
-
-      </div>
    <div class="sites_cont row text-center services-1">
        <h3 class="gray">Наши партнеры:</h3>
        <div class="sites_box">
